@@ -1,0 +1,18 @@
+DATA QUALITY REPORT
+
+Dataset Checked:
+1. 01_fund_master.csv
+2. 02_nav_history.csv
+
+Validation Performed:
+- Verified AMFI codes between fund_master and nav_history datasets.
+- Total fund_master codes: 40
+- Total nav_history codes: 40
+- Missing codes: 0
+
+Result:
+All AMFI scheme codes from fund_master are present in nav_history.
+
+Conclusion:
+The datasets passed AMFI code validation successfully.
+No data quality issues were found in scheme mapping.

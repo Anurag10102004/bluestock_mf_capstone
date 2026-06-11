@@ -28,3 +28,21 @@
 ### Author
 Anurag Kaushik
 B.Tech CSE (AI & ML)
+### How to Run
+
+1. Clone the repository:
+   git clone <repository-link>
+
+2. Install dependencies:
+   pip install -r requirements.txt
+
+3. Run scripts from the scripts folder.
+
+4. Open `dashboard/bluestock_mf_dashboard.pbix` in Power BI Desktop.
+
+### Team Members
+
+- Anurag Kaushik
+- Anshuman
+- Bharath
+- Jibu
